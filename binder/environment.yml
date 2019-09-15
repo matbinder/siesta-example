@@ -6,3 +6,4 @@ dependencies:
 - ase
 - siesta
 - libnetcdf=4.6.2
+- hdf5=1.10.2
